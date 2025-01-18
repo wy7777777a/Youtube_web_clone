@@ -14,3 +14,6 @@ YouTube 克隆项目
 学习收获：
 熟练掌握 HTML 和 CSS 的基本语法与布局技术。
 学会设计简洁且实用的用户界面，注重细节与用户交互。
+![image](https://github.com/user-attachments/assets/33fcaf98-d2dc-4685-9068-720441f11352)
+
+
